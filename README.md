@@ -9,6 +9,8 @@
 - Docker downloaded on the machine
 - POSTMAN for API testing
 ## To build the application, Follow these steps:
+> Here is the Tree Structure of the spring application [View Tree Structure](./TreeStructre.txt)
+> To understand each method -> java doc added on each method
 ### 1. Clone the repository: 
 - git clone repository-url
 ### 2. Navigate to the project directory: 
