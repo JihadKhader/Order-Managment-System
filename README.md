@@ -32,4 +32,11 @@ The Application now should be built
 > The image I'm using is jihad-order-system
 ### 5. Access your application by opening a web browser and visiting [http://localhost:8080](http://localhost:8080).
 ## Swagger UI docuemtation can be found here:
-[Open Example File](./Swagger%20UI%20-%20PDF.pdf)
+[View Swagger Docuemtation](./Swagger%20UI%20-%20PDF.pdf)
+## For the POSTMAN collection:
+### 1. Go to the swagger documentation :[http://localhost:8080/swagger-ui/index.html](http://localhost:8080/swagger-ui/index.html).
+### 2. Navigate to the api docs or json file below the OPENAI definition
+### 3. Use the URL that is :[http://localhost:8080/v3/api-docs](http://localhost:8080/v3/api-docs). to get the collection.
+### 4. Open POSTMAN and Import the collection with the URL above.
+> Check The image it should look like this
+![Image Description](./postman-collection.png)
