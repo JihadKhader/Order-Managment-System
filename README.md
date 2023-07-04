@@ -10,9 +10,9 @@
 - POSTMAN for API testing
 ## To build the application, Follow these steps:
 ### 1. Clone the repository: 
-- git clone <repository-url>
+- git clone repository-url
 ### 2. Navigate to the project directory: 
-- cd <project-directory> 
+- cd project-directory
 ### 3. Check in the pom.xml that all the dependencies are found
 ### 4. build application:
 - mvn clean package
