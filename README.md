@@ -31,3 +31,5 @@ The Application now should be built
 - docker run -p 8080:8080 your-image-name:tag
 > The image I'm using is jihad-order-system
 ### 5. Access your application by opening a web browser and visiting [http://localhost:8080](http://localhost:8080).
+## Swagger UI docuemtation can be found here:
+[Open Example File](./Swagger%20UI%20-%20PDF.pdf)
