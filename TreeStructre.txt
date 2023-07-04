@@ -1,0 +1,57 @@
+com
+└── jihad
+    └── project
+        └── OrderManagement
+            ├── controller
+            │   ├── CustomerController.java
+            │   ├── OrderController.java
+            │   ├── ProductController.java
+            │   ├── AuthenticationController.java
+            │   └── StockController.java
+            ├── dto
+            │   ├── CustomerDTO.java
+            │   ├── OrderDTO.java
+            │   ├── ProductDTO.java
+            │   ├── ProductOrderDTO.java
+            │   ├── StockDTO.java
+            │   └── UserDTO.java
+            ├── Exception
+            │   └── ErrorException.java
+            ├── ServiceImpl
+            │   ├── AuthenticationServiceImpl.java
+            │   ├── CustomerServiceImpl.java
+            │   ├── OrderServiceImpl.java
+            │   ├── ProductOrderServiceImpl.java
+            │   ├── ProductServiceImpl.java
+            │   └── StockServiceImpl.java
+            ├── security
+            │   └── SecurityConfig.java
+            ├── Authentication
+            │   ├── AuthenticationRequest.java
+            │   ├── AuthenticationResponse.java
+            │   └── RegisterRequest.java
+            ├── Repository
+            │   ├── CustomerRepository.java
+            │   ├── OrderRepository.java
+            │   ├── ProductRepository.java
+            │   ├── ProductOrderRepository.java
+            │   ├── RoleRepository.java
+            │   ├── StockRepository.java
+            │   └── UserRepository.java
+            ├── Service
+            │   ├── AuthenticationService.java
+            │   ├── CustomerService.java
+            │   ├── OrderService.java
+            │   ├── ProductOrderService.java
+            │   └── ProductService.java
+            ├── model
+            │   ├── Customer.java
+            │   ├── Order.java
+            │   ├── Product.java
+            │   ├── ProductOrder.java
+            │   ├── Role.java
+            │   ├── Stock.java
+            │   └── User.java
+            ├── key
+            │   └── KeyGenerator.java
+            └── OrderManagementApplication.java
